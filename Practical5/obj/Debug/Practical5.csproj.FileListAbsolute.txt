@@ -1,0 +1,7 @@
+F:\College\dotNet\dotNetPracticals\Practical5\bin\Debug\Practical5.exe.config
+F:\College\dotNet\dotNetPracticals\Practical5\bin\Debug\Practical5.exe
+F:\College\dotNet\dotNetPracticals\Practical5\bin\Debug\Practical5.pdb
+F:\College\dotNet\dotNetPracticals\Practical5\obj\Debug\Practical5.csprojAssemblyReference.cache
+F:\College\dotNet\dotNetPracticals\Practical5\obj\Debug\Practical5.csproj.CoreCompileInputs.cache
+F:\College\dotNet\dotNetPracticals\Practical5\obj\Debug\Practical5.exe
+F:\College\dotNet\dotNetPracticals\Practical5\obj\Debug\Practical5.pdb

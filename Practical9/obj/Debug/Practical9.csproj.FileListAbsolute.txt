@@ -1,0 +1,10 @@
+F:\College\dotNet\dotNetPracticals\Practical9\bin\Debug\Practical9.exe.config
+F:\College\dotNet\dotNetPracticals\Practical9\bin\Debug\Practical9.exe
+F:\College\dotNet\dotNetPracticals\Practical9\bin\Debug\Practical9.pdb
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.csprojAssemblyReference.cache
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.Form1.resources
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.Properties.Resources.resources
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.csproj.GenerateResource.cache
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.csproj.CoreCompileInputs.cache
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.exe
+F:\College\dotNet\dotNetPracticals\Practical9\obj\Debug\Practical9.pdb

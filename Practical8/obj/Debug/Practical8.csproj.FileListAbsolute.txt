@@ -1,0 +1,6 @@
+F:\College\dotNet\dotNetPracticals\Practical8\bin\Debug\Practical8.exe.config
+F:\College\dotNet\dotNetPracticals\Practical8\bin\Debug\Practical8.exe
+F:\College\dotNet\dotNetPracticals\Practical8\bin\Debug\Practical8.pdb
+F:\College\dotNet\dotNetPracticals\Practical8\obj\Debug\Practical8.csproj.CoreCompileInputs.cache
+F:\College\dotNet\dotNetPracticals\Practical8\obj\Debug\Practical8.exe
+F:\College\dotNet\dotNetPracticals\Practical8\obj\Debug\Practical8.pdb
